@@ -11,7 +11,7 @@ function draw()
   background(10,10,10)
 
   // change the paint brush to a specific color according to RGB values
-  fill(10,10,255);
+  fill(0,0,255);
 
   // create a rectangle at x,y coordinates 10,10 with length x height at 100 x 50
   rect(10,10,10,50);

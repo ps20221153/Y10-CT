@@ -1,7 +1,7 @@
 function setup()
 {
   //create a drawing service 700px wide, 500px tall
-  createCanvas(500,500);
+  createCanvas(300,300);
 
 }
 
